@@ -4,10 +4,10 @@
 - 🔭 I’m currently working on google App Script , Python and NodeJs
 - 🌱 I’m currently learning React Native 
 
-[![Shritej's GitHub stats](https://github-readme-stats.vercel.app/api?username=shritejmayekar)](https://github.com/shritejmayekar/github-readme-stats)
+[![Shritej's GitHub stats](https://github-readme-stats.vercel.app/api?username=shritejmayekar)](https://github.com/shritejmayekar)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shritejmayekar&layout=compact)](https://github.com/shritejmayekar/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shritejmayekar&layout=compact)](https://github.com/shritejmayekar)
 
 
 

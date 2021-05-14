@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on google App Script , Python and NodeJs
 - 🌱 I’m currently learning React Native here is [simple note taking App ](https://github.com/shritejmayekar/SimpleNoteTakerReactNativeApp)
-- 📫 How to reach me: [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://in.linkedin.com/in/shritej-mayekar-0a3617140)
+- 📫 How to reach me: [	&nbsp;		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://in.linkedin.com/in/shritej-mayekar-0a3617140)
               
 
 [![Shritej's GitHub stats](https://github-readme-stats.vercel.app/api?username=shritejmayekar)](https://github.com/shritejmayekar)

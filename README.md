@@ -9,13 +9,14 @@
   <br>
  
 </p>
-<!-- <p align='center'>
+<p align='center'>
   
-   <ul align='center' style="list-style-type:none;">
-    <li> 🔭 I’m currently working on google App Script , Python and NodeJs</li>
-    <li>🌱 I’m currently learning React Native here is <a href="https://github.com/shritejmayekar/SimpleNoteTakerReactNativeApp"> [simple note taking App ]</a> </li>
-    </ul>
-    </p> -->
+  
+  <a href="https://www.linkedin.com/in/shritejmayekar/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  
+</p>
 
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=shritejmayekar&show_icons=true&count_private=true&theme=dark"  width="420"></a>

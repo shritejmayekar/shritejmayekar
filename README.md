@@ -1,14 +1,44 @@
-### Hi there My name is Shritej Mayekar 👋
+<h1 align='center'>
+  Hi there 👋 I'm  Shritej Mayekar  👨‍💻
+</h1>
+
+<p align='center'>
+  A Django and MEAN Developer, from Mumbai, India.<br><br><br>
+  🔭 I’m currently working on google App Script , Python and NodeJs<br>
+  🌱 I’m currently learning React Native here is <a href="https://github.com/shritejmayekar/SimpleNoteTakerReactNativeApp"> [simple note taking App ]</a>
+  <br>
+ 
+</p>
+<!-- <p align='center'>
+  
+   <ul align='center' style="list-style-type:none;">
+    <li> 🔭 I’m currently working on google App Script , Python and NodeJs</li>
+    <li>🌱 I’m currently learning React Native here is <a href="https://github.com/shritejmayekar/SimpleNoteTakerReactNativeApp"> [simple note taking App ]</a> </li>
+    </ul>
+    </p> -->
+
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=shritejmayekar&show_icons=true&count_private=true&theme=dark"  width="420"></a>
+  &nbsp;&nbsp;
+    <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shritejmayekar&layout=compact&theme=dark"></a>
+
+</p>
+<!-- <p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shritejmayekar&layout=compact&theme=dark" width="350"></a>
+</p> -->
+<!-- <p align='center'>
 
 - 🔭 I’m currently working on google App Script , Python and NodeJs
 - 🌱 I’m currently learning React Native here is [simple note taking App ](https://github.com/shritejmayekar/SimpleNoteTakerReactNativeApp)
-- 📫 How to reach me: [	&nbsp;		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://in.linkedin.com/in/shritej-mayekar-0a3617140)
+</p> -->
+
               
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=shritejmayekar&show_icons=true&count_private=true&theme=dark" /> -->
 
-[![Shritej's GitHub stats](https://github-readme-stats.vercel.app/api?username=shritejmayekar)](https://github.com/shritejmayekar)
+<!--[![Shritej's GitHub stats](https://github-readme-stats.vercel.app/api?username=shritejmayekar)](https://github.com/shritejmayekar)-->
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shritejmayekar&layout=compact)](https://github.com/shritejmayekar)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shritejmayekar&layout=compact)](https://github.com/shritejmayekar) -->
 
 
 

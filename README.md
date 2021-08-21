@@ -24,10 +24,8 @@
     <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shritejmayekar&layout=compact&theme=dark"></a>
 
 </p>
-<p align='center'>
-
-    <img src="https://komarev.com/ghpvc/?username=shritejmayekar&label=PROFILE+VIEWS)" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=shritejmayekar&label=PROFILE+VIEWS)" />
+    
 <!-- <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shritejmayekar&layout=compact&theme=dark" width="350"></a>
 </p> -->

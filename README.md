@@ -24,6 +24,8 @@
     <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shritejmayekar&layout=compact&theme=dark"></a>
 
 </p>
+![](https://komarev.com/ghpvc/?username=shritejmayekar&label=Views)
+
 <!-- <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shritejmayekar&layout=compact&theme=dark" width="350"></a>
 </p> -->

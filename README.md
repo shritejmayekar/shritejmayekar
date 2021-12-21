@@ -3,8 +3,8 @@
 </h1>
 
 <p align='center'>
-  A Django and MEAN Developer, from Mumbai, India.<br><br><br>
-  🔭 I’m currently working on google App Script , Python and NodeJs<br>
+  A Django/React Full Stack Developer, from Mumbai, India.<br><br><br>
+  🔭 I’m currently working on ReactJs, Python and google App Script<br>
   🌱 I’m currently learning React Native here is <a href="https://github.com/shritejmayekar/SimpleNoteTakerReactNativeApp"> [simple note taking App ]</a>
   <br>
  

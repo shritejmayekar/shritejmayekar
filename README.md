@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  A Django/React Full Stack Developer, from Mumbai, India.<br><br><br>
+  A Python/React Full Stack Developer, from Mumbai, India.<br><br><br>
   🔭 I’m currently working on ReactJs, Python and google App Script<br>
   🌱 I’m currently learning React Native here is <a href="https://github.com/shritejmayekar/SimpleNoteTakerReactNativeApp"> [simple note taking App ]</a>
   <br>

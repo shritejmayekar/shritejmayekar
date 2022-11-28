@@ -5,7 +5,7 @@
 <p align='center'>
   A Python/React Full Stack Developer, from Mumbai, India.<br><br><br>
   🔭 I’m currently working on ReactJs, Python and google App Script<br>
-   🌱 I’ have create Android App Using React Native here is <a href="https://github.com/shritejmayekar/SimpleNoteTakerReactNativeApp"> [simple note taking App ]</a>
+   🌱 I’ have created Android App Using React Native here is <a href="https://github.com/shritejmayekar/SimpleNoteTakerReactNativeApp"> [simple note taking App ]</a>
   <br>
  
 </p>
